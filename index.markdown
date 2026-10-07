@@ -124,13 +124,14 @@ files and surfaced on each card's "Detailed description" page.
 - Library of Congress, Prints & Photographs Division. "A carload of grapes from California." Edward H. Mitchell, ca. 1909. https://www.loc.gov/item/2013645885/.
 - Library of Congress, Prints & Photographs Division. "A Carload of Navel Oranges from California." Edward H. Mitchell, ca. 1909. https://www.loc.gov/item/2025661954/.
 - Library of Congress, Prints & Photographs Division. "A Carload of Walnuts from California." Edward H. Mitchell, ca. 1909. https://www.loc.gov/item/2025661958/.
-- Public Domain Review. "Calicornication: Postcards of Giant Produce (1909)." https://publicdomainreview.org/collection/giant-produce-postcards/.
+- Applebaum Licht, Thea. "Calicornication: Postcards of Giant Produce (1909)." The Public Domain Review. https://publicdomainreview.org/collection/giant-produce-postcards/.
 
 # Credits and Acknowledgments
 
 Images courtesy of the Library of Congress, Prints & Photographs Division.
-Collection context drawn from the Public Domain Review. This mockup edition was
-assembled as a demonstration of the MinDoc template.
+Collection context drawn from Thea Applebaum Licht's essay for The Public Domain
+Review. This mockup edition was assembled as a demonstration of the MinDoc
+template.
 
 # About MinDoc 1.0
 
@@ -138,16 +139,16 @@ assembled as a demonstration of the MinDoc template.
 
 # References
 
-[^1]: Public Domain Review, "Calicornication: Postcards of Giant Produce (1909)," https://publicdomainreview.org/collection/giant-produce-postcards/.
+[^1]: Thea Applebaum Licht, "Calicornication: Postcards of Giant Produce (1909)," The Public Domain Review, https://publicdomainreview.org/collection/giant-produce-postcards/.
 
-[^2]: Public Domain Review, "Calicornication."
+[^2]: Applebaum Licht, "Calicornication."
 
 [^3]: Library of Congress, Prints & Photographs Division, "A carload of grapes from California," Edward H. Mitchell, ca. 1909, https://www.loc.gov/item/2013645885/.
 
-[^4]: Public Domain Review, "Calicornication."
+[^4]: Applebaum Licht, "Calicornication."
 
-[^5]: Public Domain Review, "Calicornication."
+[^5]: Applebaum Licht, "Calicornication."
 
-[^6]: Public Domain Review, "Calicornication."
+[^6]: Applebaum Licht, "Calicornication."
 
-[^7]: Public Domain Review, "Calicornication."
+[^7]: Applebaum Licht, "Calicornication."
