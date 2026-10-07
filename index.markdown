@@ -4,94 +4,150 @@ layout: single_page
 
 # Introduction
 
-Word count: 250–450 words
+Between roughly 1905 and 1915, the United States lived through a golden age of
+the picture postcard. Cheaper, faster mail, the arrival of the "divided back"
+card that freed the entire front for an image, and better commercial color
+printing combined to create a mass market for collectible, mailable pictures.[^1]
+Into this moment arrived a craze for "tall-tale" or "exaggeration" postcards:
+images in which photographers and printers cut, collaged, and re-photographed
+pictures to manufacture glorious impossibilities. Among the most popular was a
+genre of agricultural abundance, where a single fruit or vegetable swells to the
+size of a house.
 
-This is the first written element of an edition: the first content readers encounter.
+This edition presents three cards from one of the most elegant entries in that
+genre: the "Carload" series published by the San Francisco printer Edward H.
+Mitchell around 1909. Each card frames a single open railroad car rolling
+through lush farmland, loaded with one gargantuan, luminous crop: dimpled navel
+oranges, a dusky bunch of grapes, and mottled walnuts. Placed end to end, the
+cards read like a colorful freight train crossing California's fertile valleys.[^2]
+Unlike the busier tall-tale cards of the era, which crowd in farmers and
+fishermen for comic scale, Mitchell's series is restrained and almost painterly,
+its colossal cargo leaning toward artwork rather than gag.
 
-The purpose of this introduction is to set the scene: to provide an initial description of the source as well as an overview your edition, highlighting its features and supplements. This is not a space for much detail about the source or our editorial work with it. Later sections will allow you to do that. Here, your job is to help readers understand that they are looking at a digital edition of a historical source and why that source is interesting.
-
-The premium is on precise, no-nonsense prose.
-
-At bottom, you should include:
+The three images reproduced here are drawn from the Library of Congress, Prints
+& Photographs Division, which holds the Mitchell "Carload" cards with no known
+restrictions on publication. The surrounding commentary draws on the Public
+Domain Review's collection essay on giant-produce postcards.
 
 **How to Cite:**
-Here, provide a citation using this model:
 
-> Lastname, Firstname, FirstName LastName, and FirstName, Lastname. “Title of Web Page.” Name of Website (if different from web page). Publication or Revision Date. URL.
-
-Your teams have multiple authors.  In scholarship, if authorship is equal across all team members, then the custom is to list by last name them in alphabetical order.  If you wish to deviate from this order you can but that will communicate priority (i.e. that the one who goes first is the 'lead author', etc.).
-
-If you choose and wish to do so, you may also include a Creative Commons license here. We'll discuss those in class.
-
-Here and throughout your edition, you should use footnotes in Chicago Notes and Bibliography style.[^1]  Please note that if sources are listed in your bibliography (and all your main ones should be), you may use a shortened form in these notes (e.g. Smith, _Towards a Better Understanding_, 5, with the full citation to Smith going in the bibliography).
+> SourceLab Editorial Team. "Calicornication: Postcards of Giant Produce (1909)." MinDoc Edition. 2026. https://example.github.io/RECOVERYMockup/.
 
 # The Source
 
-This section provides the main presentation of your source, as you have prepared it for readers (i.e., a facsimile, transcription, video, audio clip, etc.). This section is where we satisfy the first of the ADE’s three criteria for an electronic edition by providing a rigorous, accurate presentation of historical material.
+The source is a set of three color exaggeration postcards from Edward H.
+Mitchell's "Carload" series (San Francisco, ca. 1909), each showing one
+oversized California crop riding an open rail car. The images below are presented
+in the order a viewer might "couple" them into a train: oranges, grapes, walnuts.
 
 {% assign media = site.mindoc_media | where: "page", "source" %}
 {% include media_next.html pages=media %}
 
-For the presentation of some sources, it may make sense to break up the presentation into multiple pages. For that, as needed, we can use a more book like template (binding multiple pages together) that I can provide. Nonetheless, this page should be the page from which all presentations of the source itself start.
+The second card, "A Carload of Grapes from California," is reproduced from the
+specific Library of Congress item the editors were asked to work from.[^3] The
+oranges and walnuts cards come from the same Mitchell series at the Library of
+Congress and are included here to show how the cards function together as a
+sequence.
 
-This may also be a space where editorial annotations are provided, such as notes on provenance, archival location, transcription, and more. If possible, a link to the source’s permanent digital location should be included here as well as a citation for that location. This should be done in consultation with the instructors, editorial board, and peer reviewers.
+{% include media_next.html pages=media %}
 
-Please note: some presentations may benefit from a multipage format (rather than one scrolling page, as here). I can make a multipage template available to you as needed.
+Each "Detailed description" link above opens a full catalog record for the card,
+including its creator, date, rights statement, and permanent Library of Congress
+identifier.
+
+{% include media_next.html pages=media %}
 
 # About this Source
 
-Word count: 1000 words (excluding footnotes)
+The "Carload" cards belong to a wider American vogue for "tall-tale" or
+"exaggeration" postcards that peaked in the first decade of the twentieth
+century. The technique was photographic trickery: by cutting apart and
+recombining negatives and prints, then re-photographing the result, a maker
+could set a single apple on a wagon as though it weighed a ton, or pile corn
+cobs like sawn timber.[^4] The genre thrived especially in the western and
+plains states, where agriculture was hard, risky work and where images of
+folkloric plenty carried real civic pride. Captions tied the fantasy to a
+specific place and people: "The Kind We Raise in Our State," "The Kind We Grow
+in Texas," "How We Do Things at Attica, Wis."[^5]
 
-This section contains a short biography or history of your source. This section helps readers understand the context in which the source was made, and the kinds of historical topics and questions it illuminates.  It also helps to satisfy the second of the ADE’s "Minimum Standards for Electronic Editions," explanatory annotation.
+Prominent makers such as William "Dad" H. Martin and Alfred Stanley Johnson Jr.
+built reputations on these scenes, staging farmers harvesting furniture-sized
+onions and children floating in canoe-sized watermelon slices.[^6] Mitchell's
+California series stands a little apart from that tradition. Rather than packing
+the frame with people reacting to the marvel, Mitchell isolates the produce
+itself on a plain flat car and lets sharp lighting and saturated color do the
+work. The restraint is what gives the cards their odd dignity; the Public Domain
+Review's editors note that "A Carload of Mammoth Apples," gleaming green-yellow,
+would not look out of place beside a Magritte.[^7]
 
-"About this Source" should answer questions like:
+The California focus was not incidental. In the years these cards circulated, the
+state's citrus, grape, and nut industries were booming and were marketed
+nationally by rail. A postcard of a single navel orange filling an entire freight
+car is a joke, but it is also an advertisement for a region that really did ship
+produce east by the trainload. The cards sit at the intersection of folk humor,
+boosterism, and the new mass medium of the illustrated postcard, which let anyone
+mail a small, cheap, brightly colored argument about where the best fruit came
+from.
 
-- How, when, and where was this artifact created?
-- For what purpose? To what effect?
-- Who used it, when, where, why?
-- What sorts of histories and historical debates has it been used in? How might we use it in our explorations of the past today?
-
-To answer these questions, you will be drawing on your collective research for the Research Assignment.
-
-The target length of this section is about 1000 words, exclusive of notes. It should contain footnotes that substantiate and support your research into the artifact and its history. Here, as throughout, the focus should be on clean, clear prose.
+As historical sources, exaggeration postcards reward attention precisely because
+they are not documentary. They record what early twentieth-century Americans
+found funny, what they were proud of, and how quickly the public absorbed
+photographic manipulation as a form of play rather than deception. They also
+document the material culture of the postcard itself: the divided back, the color
+halftone process, and the publisher networks (like Mitchell's in San Francisco)
+that produced and distributed them.
 
 # About this Edition
 
-This section should state the principles and choices that guided your editorial work. It helps satisfy the last of the ADE’s criteria, by explaining to readers just how you produced the copy of the source presented here.
+This edition reproduces three cards from Edward H. Mitchell's "Carload" series as
+digitized by the Library of Congress, Prints & Photographs Division.
 
-This section should answer such questions as:
+- The grapes card is Library of Congress item [2013645885](https://www.loc.gov/item/2013645885/),
+  "A carload of grapes from California," the specific item the editors were asked
+  to use.
+- The navel oranges card is Library of Congress item [2025661954](https://www.loc.gov/item/2025661954/).
+- The walnuts card is Library of Congress item [2025661958](https://www.loc.gov/item/2025661958/).
 
-- What original artifacts or copies of original artifacts were used in the making of your edition? 
-- Where may they be found today? What is their catalog or other identifying number (DOI, URL) there?
-- What procedures and technologies did you use in making your presentation of this artifact?
-- Why did you choose them? Are there any limitations of this method that readers should be aware of?
-- How did you produce transcriptions (if any)?
-- What kinds of alterations or emendations (if any) have you made? How are they noted?
+Each image was retrieved from the Library of Congress storage service at the
+reading-room JPEG resolution (640 px on the long edge) and stored unaltered in
+`assets/img/`. No cropping, color correction, or retouching was performed. The
+front (recto) of each card is shown; the message side (verso) is not reproduced
+here. All three cards carry the Library of Congress rights statement "No known
+restrictions on publication," placing them in the public domain.
 
-There is no target word count for this section, as the emphasis here is on maximum precision and clarity.  Be as brief and to the point as you can.
-
-# Supplements
-
-Should you wish to include any supplemental materials--such as specific forms of source commentary or illustrations--they may be provided here.  They are not required. If you do not have any supplements, please eliminate this field.
+Catalog metadata for each card, title, creator, date, rights, source, and the
+permanent Library of Congress identifier, is recorded in the edition's media
+files and surfaced on each card's "Detailed description" page.
 
 # Bibliography
 
-This section should provide a bibliography of all sources cited in your work as well as 
+- Library of Congress, Prints & Photographs Division. "A carload of grapes from California." Edward H. Mitchell, ca. 1909. https://www.loc.gov/item/2013645885/.
+- Library of Congress, Prints & Photographs Division. "A Carload of Navel Oranges from California." Edward H. Mitchell, ca. 1909. https://www.loc.gov/item/2025661954/.
+- Library of Congress, Prints & Photographs Division. "A Carload of Walnuts from California." Edward H. Mitchell, ca. 1909. https://www.loc.gov/item/2025661958/.
+- Public Domain Review. "Calicornication: Postcards of Giant Produce (1909)." https://publicdomainreview.org/collection/giant-produce-postcards/.
 
 # Credits and Acknowledgments
 
-Please thank your clients, as well as anyone else you would like to thank for their assistance in making this edition.
-
-# Optional: Author Biography
-
-If you wish to include short bios of yourselves as authors, please put them here.  This is optional.
+Images courtesy of the Library of Congress, Prints & Photographs Division.
+Collection context drawn from the Public Domain Review. This mockup edition was
+assembled as a demonstration of the MinDoc template.
 
 # About MinDoc 1.0
-_Please leave this credit (eliminating this italicized part)_
 
-> This site was built using MinDoc 1.0, a prototype digital documentary edition template developed for classroom use by members of [SourceLab](https://sourcelab.history.illinois.edu/) at the University of Illinois Urbana-Champaign.  The original project team included Liza Senatrova, John Randolph, Caroline Kness, and Richard Young.
+> This site was built using MinDoc 1.0, a prototype digital documentary edition template developed for classroom use by members of [SourceLab](https://sourcelab.history.illinois.edu/) at the University of Illinois Urbana-Champaign. The original project team included Liza Senatrova, John Randolph, Caroline Kness, and Richard Young.
 
 # References
 
-[^1]: Your footnote tags and texts will go here.
+[^1]: Public Domain Review, "Calicornication: Postcards of Giant Produce (1909)," https://publicdomainreview.org/collection/giant-produce-postcards/.
 
+[^2]: Public Domain Review, "Calicornication."
+
+[^3]: Library of Congress, Prints & Photographs Division, "A carload of grapes from California," Edward H. Mitchell, ca. 1909, https://www.loc.gov/item/2013645885/.
+
+[^4]: Public Domain Review, "Calicornication."
+
+[^5]: Public Domain Review, "Calicornication."
+
+[^6]: Public Domain Review, "Calicornication."
+
+[^7]: Public Domain Review, "Calicornication."

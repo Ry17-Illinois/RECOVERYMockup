@@ -1,6 +1,6 @@
-title: MinDoc Template # You will insert your title here.
+title: Calicornication # You will insert your title here.
 email: your-email@example.com
-description: by Authors # Author names go here.
+description: Postcards of Giant Produce (1909) # Author names go here.
 
 baseurl: "" # Set to the repository name so assets resolve correctly both locally and on GitHub Pages. If you rename the repo, update this value to match.
 
